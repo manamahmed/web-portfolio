@@ -29,7 +29,9 @@ p{
     color: dimgrey;
     font-size: 20px;
     text-align: justify;
-  text-justify: inter-word;
+    text-justify: inter-word;
+    font-weight: 200px;
+    font-size: 18px;
 }
 .link-button{
 
